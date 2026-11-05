@@ -1,1 +1,1 @@
-This repository contains my data analysis and Python projects, showcasing dat cleaning, visualization, and workflow automation.
+This repository contains my data analysis and Python projects, showcasing data cleaning, visualization, and workflow automation.
